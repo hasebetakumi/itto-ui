@@ -1,0 +1,18 @@
+{
+	// List of extensions which should be recommended for users of this workspace.
+	"recommendations": [
+		"dbaeumer.vscode-eslint", // eslint
+		"stylelint.vscode-stylelint", // stylelint
+        "esbenp.prettier-vscode", // prettier
+        "GitHub.copilot", // github copilot
+		"christian-kohler.path-intellisense", // path intellisense
+		"oderwat.indent-rainbow", // indent rainbow
+		"MariusAlchimavicius.json-to-ts", // json to ts
+		"wix.vscode-import-cost", // import cost
+		"donjayamanne.githistory", // git history
+	],
+	// List of extensions recommended by VS Code that should not be recommended for users of this workspace.
+	"unwantedRecommendations": [
+		
+	]
+}
